@@ -1,6 +1,6 @@
-#BPA Web Design Team Project - Conceptualize
+# BPA Web Design Team Project - Conceptualize
 
-##Questions
+## Questions
 
 My company assists homeowners with the planning and construciton of a bio-friendly home. This includes:
  - Geothermal
