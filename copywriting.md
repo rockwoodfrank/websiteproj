@@ -30,3 +30,41 @@ A page with links and information about different support groups and organizatio
 
 ### Contact
 A page with the contact information for the company to use. The purpose is to get the user to get in touch with the agency.
+
+## Sections
+
+### Home
+
+#### Hero/Landing
+The introduction section. Should contain an image as well as a slogan, plus a small paragraph. Should have two CTAs, one to the benefits, another to the contact section. 
+NOTE - This section should not be larger than 50vh.
+
+#### Introduction/Who We Are
+An introduction to the company, what they do, and how they can help the user.
+
+#### Quad-Bar Area
+This section contains information about the different types of renewable energy. This will contain a quarter of the page for each: Solar, Geothermal, Wind, and Earthship Bioshelter. Will include the title and a description for each.
+
+#### Drawbacks/Challenges
+A section that shows that even though renewable energy is a good thing, there may be some drawbacks to using it. This lists them out in a multi-bar fashion that includes the name and description.
+
+#### Features/Benefits
+The section that is essebtially a large infographic about renewable energy with facts, numbers, and more showing why the user should switch to it.
+
+#### Support
+A section that introduces there are ways to get support and a link to the main page with that info.
+
+#### Contact Us
+A contact form that lets the user get in touch with the company.
+
+#### Footer
+A footer that will be on every page. This will contain contact info, addresses, a mission statement(to improve SEO), and different social medias.
+
+### Features/Benefits
+This page conatins facts and numbers about renewable energy. It's essentially a large infographic.
+
+### Support
+A page with information about getting support for renewable homes, as well as links to several organziations.
+
+### Contact Us
+A page with a contact form as well as some of the hypothetical contact information. 
