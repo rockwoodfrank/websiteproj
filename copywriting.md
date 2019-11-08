@@ -68,3 +68,63 @@ A page with information about getting support for renewable homes, as well as li
 
 ### Contact Us
 A page with a contact form as well as some of the hypothetical contact information. 
+
+## Gathering Keywords
+// TODO
+Big focus is *Solar* - Many more searches.
+
+
+## The Actual Writing Section
+
+### Home
+
+#### Hero/Landing
+(Navbar in top) - Sustainable Homes, Home, Renewables, Challenges, Benefits, Support, Contact Us
+
+(Main Motto) - Renewable Energy for a Sustainable Future.
+We make homes that save the planet.
+
+(Buttons) Why Go Green, Get in Touch
+
+#### Introduction
+(Header)
+
+(Paragraph) 
+For over 15 years, we have been helping homeowners like you build homes that are green, reliable, and great to live in. Building a bio-friendly home can be challenging. There are lots of things to consider. Let us take care of that for you. We have the skills and information to build your ideal sustainable home.
+
+(Down Arrow) How we can help
+
+#### Quad-Bar
+
+*Solar* 
+Installing solar panels isn't just great for the environment, it's also great for your electricity bill. (Learn More Button)
+
+*Wind Energy*
+One of the most popular sources of renewable energy, we can help set up wind energy whether it's a massive wind farm or a turbine in your backyard.
+
+*Geothermal*
+Whether, its heating, cooling, or a hot water system, we can help you ditch natural gas and use the Earth's natural temperatures for your home.
+
+*Earthsip Bioshelter*
+If you are interested in going completely green, we can assist building an Earthship. This is a building made entrirely of recycled materials and running entirely off of renewable energy.
+
+#### Challenges
+You may experience serveral challenges and drawbacks while building your home. Let us help. We can inform you on any issues you may experience, and how to deal with them. (Learn More)
+
+#### Benefits
+Why go renewable? There are plenty of benefits. How does tax breaks, no power bill, and more sound?(Keep Talking...)
+
+#### Support
+If you have any issues or want to learn more, we have many resources and groups that you can turn to in your renewable energy journey.
+
+#### Contact
+Let's get in touch. If you want to go green, feel free to contact us. We typically reply within two business days.
+ - Name
+ - Email
+ - Subject
+ - Submit
+
+#### Footer
+// TODO
+
+
