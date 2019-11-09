@@ -69,6 +69,9 @@ A page with information about getting support for renewable homes, as well as li
 ### Contact Us
 A page with a contact form as well as some of the hypothetical contact information. 
 
+### About Us
+A page with some generic info about the team of architects, etc.
+
 ## Gathering Keywords
 // TODO
 Big focus is *Solar* - Many more searches.
@@ -127,4 +130,44 @@ Let's get in touch. If you want to go green, feel free to contact us. We typical
 #### Footer
 // TODO
 
+### Benefits
+Why Use Renewable Energy?
 
+Plenty of Reasons.
+
+1. It's free electricity.
+	- The average household saves $3,000 per year using solar panels or wind energy, and about $1,000 per year using geothermal energy.
+	- Although the upfront cost may be high, it's unlikely you will ever have to pay an electricity bill again, and if you do, it won't be what it is now.
+	- Any extra electricity you don't use gets sent back to your electric company, and you may qualify for credit.
+2. You're saving the planet.
+	- The earth's resources are finite. **It is estimated that we will run out of petroleum by the year 2070.**
+	- It is critical that the human race has found a new source of energy by that point.
+	- **There is no Planet B.** There is not another Earth that humans can flee to when we destory this one. We must conserve our resources and choose to use energy that is bot sustainable and infinitely renewable.
+	- Renewable resources barely pollute the envrionment at all compared to fossil fuels.
+3. You get tax breaks. 
+	- With solar panels, you recieve 30% percent back on inital costs, meaning a $25,000 setup will save you $7,500.
+	- No matter where you are, you recieve major tax credits by going solar.
+	- In 2020, you can recieve 26% of what you spent on installing geothermal as a tax break.
+	- **And so much more.** It is highly likely that there are even more breaks and bonuses you can get in your area.
+
+**So, ready to go green?**
+(Let's go)
+
+### Support
+
+Want to find out more information? Here are some great resources and support groups that are here for you.
+
+//TODO
+#### Solar
+
+#### Wind Energy
+
+#### Geothermal
+
+#### Earthship Bioshelter 
+
+### Contact Us
+Let's Talk. If you are interested in building a sustainable home, lets get in touch. You may choose one of the contact methods here, or fill out the form. We typically reply within 3 business days.
+
+### About Us
+// TODO
