@@ -173,4 +173,10 @@ Want to find out more information? Here are some great resources and support gro
 Let's Talk. If you are interested in building a sustainable home, lets get in touch. You may choose one of the contact methods here, or fill out the form. We typically reply within 3 business days.
 
 ### About Us
-// TODO
+For over 15 years, we have been helping homeowners go green. We have a team of experienced professionals with years of experience that are working with homeowners to create the ideal renewable home. 
+
+Our goal has always been to save the Earth. We want to make sure that the Earth is a safe and great place to live on for years and years to come. We do this by assisting homeowners in their journey towards a home using renewable energy. We provide them with lots of great information about the renewable process, as well as the tools that they can use. We also prepare them for challenges that they may face while building their home, as well as any sites and groups where they can get more information or support. 
+
+We are also ready to help those homeowners personally. With our group of trained, experienced professionals, we are gladly willing to assist in the building of a renewable home, and are ready to solve any of their questions about using renewable energy.
+
+If you want to learn more, please contact us! We are willing to work thorugh the process with you and give you more information.

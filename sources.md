@@ -16,3 +16,5 @@ https://energyinformative.org/saving-money-with-geothermal-heat-pumps/ 8 Nov
 https://dandelionenergy.com/blog/the-2019-federal-geothermal-tax-credit-your-questions-answered 8 Nov
 
 https://www.nytimes.com/2018/03/07/climate/personal-wind-turbine.html 8 Nov
+
+https://news.energysage.com/much-solar-panels-save/ 13 Nov
