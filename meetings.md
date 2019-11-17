@@ -15,3 +15,11 @@
 	* Information Finder
 	* Writer
 
+## 17 November 2019
+ - Progress Report
+ - Collect Signed Consent and Release Forms
+ - Work on Works Cited
+ - Introduce Github
+ - Explain AOS(Animate on Scroll)
+ - Put together PDF
+ - Work on Website 
