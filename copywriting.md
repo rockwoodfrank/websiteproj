@@ -128,7 +128,10 @@ Let's get in touch. If you want to go green, feel free to contact us. We typical
  - Submit
 
 #### Footer
-// TODO
+**3 Sections**
+ - Contact Info
+ - Mission Statement(SEO)
+ - Sitemap
 
 ### Benefits
 Why Use Renewable Energy?
